@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.10.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.2.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "83043ea07f02d383bbe27be0964e3498"
+    },
+    "Img/robot_reading_resume.png": {
+      "checksum": "fffe7e975d2edb4ebac9d0f9fbb54c45"
+    },
+    "README.md": {
+      "checksum": "10030407440a226051ba27438a2dc7a9"
+    },
+    "agent_bot.py": {
+      "checksum": "6d84d3c896f744f43680d7bdf2a9cafb"
+    },
+    "app.py": {
+      "checksum": "a4e56a8e32deff50142ad4848630cbd6"
+    }
+  }
+}
