@@ -1,0 +1,7 @@
+openai
+langchain
+kor
+streamlit
+streamlit_chat
+pypdf
+unstructured[local-inference]
